@@ -23,9 +23,9 @@ app.get('/', (req, res) => {
                 <meta property="fc:frame:button:2:target" content="https://warpcast.com/~/channel/cryptoplaza" />
             </head>
             <body>
-                <h1>¡Hola, mundo!</h1>
-                <h1>¡Este es mi primer Frame!</h1>
-                <h1>¡Comenta $DEGEN!</h1>
+                <h1>¡Hola, FriendCasters!</h1>
+                
+                <h1>¡Comenta $JAM!</h1>
             </body>
         </html>
     `;
