@@ -21,9 +21,9 @@ app.get('/', (req, res) => {
                 <meta property="fc:frame:button:2" content="🍖 Channel The LP / $TN100x" />
                 <meta property="fc:frame:button:2:action" content="link" />
                 <meta property="fc:frame:button:2:target" content="https://warpcast.com/~/channel/lp" />
-                <meta property="fc:frame:button:2" content="Liquidity Pool" />
-                <meta property="fc:frame:button:2:action" content="link" />
-                <meta property="fc:frame:button:2:target" content="🦄 https://app.uniswap.org/pools/45274"/>
+                <meta property="fc:frame:button:3" content="Liquidity Pool" />
+                <meta property="fc:frame:button:3:action" content="link" />
+                <meta property="fc:frame:button:3:target" content="🦄 https://app.uniswap.org/pools/45274"/>
             </head>
             <body>
                 <h1>¡Hola, FriendCasters!</h1>
