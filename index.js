@@ -14,8 +14,7 @@ app.get('/', (req, res) => {
                 <title>Frame Test</title>
                 <meta property="og:image" content="https://gifyu.com/image/SUzsN" />
                 <meta property="fc:frame" content="vNext" />
-                <meta property="fc:frame:image" content="https://gifyu.com/image/SUzsN"/>
-                <meta property="fc:frame:image:aspect_ratio" content="2:1" /> <!-- Cambia este valor según tu preferencia -->
+                <meta property="fc:frame:image" content="https://gifyu.com/image/SUzsN" aspect_ratio="0.8"/>
                 <meta property="fc:frame:button:1" content="Web 🍖" />
                 <meta property="fc:frame:button:1:action" content="link" />
                 <meta property="fc:frame:button:1:target" content="https://based.thelp.xyz/" />
