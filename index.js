@@ -12,9 +12,9 @@ app.get('/', (req, res) => {
         <html>
             <head>
                 <title>Frame Test</title>
-                <meta property="og:image:aspect_ratio=1:1" content="https://www.cleverpdf.com/203786/images.gif" />
+                <meta property="og:image" content="https://www.cleverpdf.com/203786/images.gif" />
                 <meta property="fc:frame" content="vNext" />
-                <meta property="fc:frame:image:aspect_ratio=1:1" content="https://www.cleverpdf.com/203786/images.gif"/>
+                <meta property="fc:frame:image" content="https://www.cleverpdf.com/203786/images.gif"/>
                 <meta property="fc:frame:button:1" content="Web 🍖" />
                 <meta property="fc:frame:button:1:action" content="link" />
                 <meta property="fc:frame:button:1:target" content="https://based.thelp.xyz/" />
