@@ -12,15 +12,15 @@ app.get('/', (req, res) => {
         <html>
             <head>
                 <title>Frame Test</title>
-                <meta property="og:image" content="https://s9.gifyu.com/images/SUzsN.gif" />
+                <meta property="og:image" content="https://s9.gifyu.com/images/SUzws.gif" />
                 <meta property="fc:frame" content="vNext" />
-                <meta property="fc:frame:image" content="https://s9.gifyu.com/images/SUzsN.gif" aspect_ratio="5:1"/>
+                <meta property="fc:frame:image" content="https://s9.gifyu.com/images/SUzws.gif" aspect_ratio="5:1"/>
                 <meta property="fc:frame:button:1" content="Web 🍖" />
                 <meta property="fc:frame:button:1:action" content="link" />
                 <meta property="fc:frame:button:1:target" content="https://based.thelp.xyz/" />
-                <meta property="fc:frame:button:2" content="Channel The LP / $TN100x 🍖" />
+                <meta property="fc:frame:button:2" content="Buy NFT 🍖" />
                 <meta property="fc:frame:button:2:action" content="link" />
-                <meta property="fc:frame:button:2:target" content="https://warpcast.com/~/channel/lp" />
+                <meta property="fc:frame:button:2:target" content="https://sudoswap.xyz/#/browse/base/buy/0x8ce608ce2b5004397faef1556bfe33bdfbe4696d" />
                 <meta property="fc:frame:button:3" content="🦄 Liquidity Pool" />
                 <meta property="fc:frame:button:3:action" content="link" />
                 <meta property="fc:frame:button:3:target" content="https://app.uniswap.org/pools/45274"/>
