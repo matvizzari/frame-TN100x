@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
             <body>
                 <h1>¡Hola, FriendCasters!</h1>
                 
-                <h1>¡Comenta $JAM!</h1>
+                <h1>¡Comenta 🍖🍖🍖!</h1>
             </body>
         </html>
     `;
